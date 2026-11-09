@@ -1,0 +1,205 @@
+[
+ {
+  "n": 6,
+  "date": "2024-12-26",
+  "cancelled": true,
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=SNvFjnjjfEYIu8--6ewDkWzsEjOiRsEaU-K2js6xE48CzPFHjgqnNjai1K5nVO1SldykLkhfHV74xpcoMOswkWQkC60qB2jUTZjuGEJv5q0802J6IZJxZ2nJq8-PVdkQWJ2wIrJvncmgErxazE2lQ0ZFUS47uecdxtk=&ref=6694752"
+   }
+  ],
+  "time": "",
+  "room": ""
+ },
+ {
+  "n": 5,
+  "date": "2024-12-18",
+  "time": "12.30",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=fz-apUIbDipXJzRuxvloKaRc97pBe5DNLwI4HaUCzTo2Slu4muxPDtKMWd6kfeBYPvOSJejqSLle8RQq_jhR8wb_A39sP2zcuG4ZgN-e42PHxVMMzjzwn9lZSLNwD51WF4hWfZjPIHh5k_lckfRgmrwvt19-q_2lKdI=&ref=6656869",
+    "size": 96948
+   },
+   {
+    "k": "doc",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=W5riWtVfJW-r7Y7t7VCDk7Wxod64zwdD-YCNrnjEbDYuTHYtDpPRMEf61_52VcZj1m1xWdTDG4DFfG8JK2voghHjDNyQgEaMwG7FRPYkF4Ud3h0hQIrS0cMlxWnHrbOMgDNShtbFJlaWcTODtocEhWRBzNPm5XEtPic=&ref=6676005"
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=sGJvq4jvDeDJZd4UWRw"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "บริหารจัดการน้ำด้วยข้อมูลดาวเทียมและภูมิสารสนเทศ",
+  "summary": "ระเบียบวาระ: การบริหารจัดการทรัพยากรน้ำเพื่อป้องกันและแก้ไขปัญหาภัยพิบัติกรณีน้ำท่วมและน้ำแล้ง โดยเชิญสำนักงานพัฒนาเทคโนโลยีอวกาศและภูมิสารสนเทศ (องค์การมหาชน) หรือ GISTDA (วุฒิสภาเผยแพร่เฉพาะหนังสือนัดประชุมของคณะนี้ในปี 2567 ข้อความนี้จึงเป็นระเบียบวาระตามหนังสือนัดประชุม ไม่ใช่มติที่ประชุม)",
+  "items": [
+   [
+    "การบริหารจัดการทรัพยากรน้ำเพื่อป้องกันและแก้ไขปัญหาภัยพิบัติกรณีน้ำท่วมและน้ำแล้ง",
+    "เชิญ สำนักงานพัฒนาเทคโนโลยีอวกาศและภูมิสารสนเทศ (องค์การมหาชน) หรือ GISTDA",
+    "water"
+   ]
+  ],
+  "tags": [
+   "บริหารจัดการน้ำ",
+   "ภูมิสารสนเทศ"
+  ],
+  "places": [],
+  "agenda_only": true,
+  "upcoming": false
+ },
+ {
+  "n": 4,
+  "date": "2024-12-13",
+  "time": "10.00",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=IO-2n0m4DWcl5w_OOPgO5ommRKJSmqc5lf-pEiirV1spmVW6ZWh9yOoHW5wmzHyoDwWg-yLzk3Y_hYB_jNE2Uc379QRF_A1P5OTW3scbE8XxqLOxNvy5-cC8Vjacl6scWyAZvEHubTydGrL2L6W3unKhNU0cjmRTkbQ=&ref=6627311",
+    "size": 109988
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=5R9hsleesLEK3gHsOa4"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "บริหารจัดการน้ำ: ข้อมูลจากจังหวัดระยอง",
+  "summary": "ระเบียบวาระ: การบริหารจัดการทรัพยากรน้ำเพื่อป้องกันและแก้ไขปัญหาภัยพิบัติกรณีน้ำท่วมและน้ำแล้ง โดยเชิญโครงการชลประทานระยอง สำนักงานชลประทานที่ 9 และสำนักงานป้องกันและบรรเทาสาธารณภัยจังหวัดระยอง (วุฒิสภาเผยแพร่เฉพาะหนังสือนัดประชุมของคณะนี้ในปี 2567 ข้อความนี้จึงเป็นระเบียบวาระตามหนังสือนัดประชุม ไม่ใช่มติที่ประชุม)",
+  "items": [
+   [
+    "การบริหารจัดการทรัพยากรน้ำเพื่อป้องกันและแก้ไขปัญหาภัยพิบัติกรณีน้ำท่วมและน้ำแล้ง",
+    "เชิญ โครงการชลประทานระยอง สำนักงานชลประทานที่ 9 และสำนักงานป้องกันและบรรเทาสาธารณภัยจังหวัดระยอง",
+    "water"
+   ]
+  ],
+  "tags": [
+   "บริหารจัดการน้ำ",
+   "น้ำท่วม",
+   "ภัยแล้ง"
+  ],
+  "places": [
+   "ระยอง"
+  ],
+  "agenda_only": true,
+  "upcoming": false
+ },
+ {
+  "n": 3,
+  "date": "2024-11-29",
+  "time": "09.30",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=VGtH76BBsWJ17efydmXVZ2UwjwqnIaV3LI1m9UP3KjQ2_TXY05GBn-phcH1Cbz4K5dbxr87XI-I_B0zdWQE--6d5wdgf0ilvvNQRpk6fgST2SumDuIb0gOs6kQWlS6trIhoJUzw7FqPCljEvRjH527gHt6TeUMkUM0Y=&ref=6532021",
+    "size": 110049
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=_gl7ewlZVGf-Gx0dgyg"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "บริหารจัดการน้ำ: ข้อมูลจากจังหวัดชัยภูมิและหน่วยงานด้านธรณี",
+  "summary": "ระเบียบวาระ: การบริหารจัดการทรัพยากรน้ำเพื่อป้องกันและแก้ไขปัญหาภัยพิบัติกรณีน้ำท่วมและน้ำแล้ง โดยเชิญสำนักงานป้องกันและบรรเทาสาธารณภัยจังหวัดชัยภูมิ กรมทรัพยากรธรณี และกรมทรัพยากรน้ำบาดาล (วุฒิสภาเผยแพร่เฉพาะหนังสือนัดประชุมของคณะนี้ในปี 2567 ข้อความนี้จึงเป็นระเบียบวาระตามหนังสือนัดประชุม ไม่ใช่มติที่ประชุม)",
+  "items": [
+   [
+    "การบริหารจัดการทรัพยากรน้ำเพื่อป้องกันและแก้ไขปัญหาภัยพิบัติกรณีน้ำท่วมและน้ำแล้ง",
+    "เชิญ สำนักงานป้องกันและบรรเทาสาธารณภัยจังหวัดชัยภูมิ กรมทรัพยากรธรณี และกรมทรัพยากรน้ำบาดาล",
+    "water"
+   ]
+  ],
+  "tags": [
+   "บริหารจัดการน้ำ",
+   "น้ำท่วม",
+   "ภัยแล้ง"
+  ],
+  "places": [
+   "ชัยภูมิ"
+  ],
+  "agenda_only": true,
+  "upcoming": false
+ },
+ {
+  "n": 2,
+  "date": "2024-11-20",
+  "time": "13.00",
+  "room": "",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=KMdfBhduzGr8bipJN40RwWsltHflMTf9Bm_ak_O81wzGYFvuuqb-LmqKtQYh7jzEzMvtu_JmpE42_fojoX2w3RCZMfbqTCSBrUMQ9WCKAOL2goVMJunidi4oItOdUBf-AyEWJsj5FeM78YkgpKLPXzf393r-iwCDT6E=&ref=6477541",
+    "size": 107300
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=lr_PdFK18MJOrJQNOgs"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "บริหารจัดการน้ำทั้งระบบเพื่อแก้ปัญหาอุทกภัยและภัยแล้ง",
+  "summary": "ระเบียบวาระ: แนวทางการบริหารจัดการน้ำทั้งระบบ เพื่อแก้ปัญหาภัยพิบัติอุทกภัยและภัยแล้งอย่างยั่งยืน โดยเชิญสำนักงานทรัพยากรน้ำแห่งชาติ ภาค 3 กรมชลประทาน และกรมทรัพยากรน้ำ (วุฒิสภาเผยแพร่เฉพาะหนังสือนัดประชุมของคณะนี้ในปี 2567 ข้อความนี้จึงเป็นระเบียบวาระตามหนังสือนัดประชุม ไม่ใช่มติที่ประชุม)",
+  "items": [
+   [
+    "แนวทางการบริหารจัดการน้ำทั้งระบบ เพื่อแก้ปัญหาภัยพิบัติอุทกภัยและภัยแล้งอย่างยั่งยืน",
+    "เชิญ สำนักงานทรัพยากรน้ำแห่งชาติ ภาค 3 กรมชลประทาน และกรมทรัพยากรน้ำ",
+    "water"
+   ]
+  ],
+  "tags": [
+   "บริหารจัดการน้ำ",
+   "น้ำท่วม",
+   "ภัยแล้ง"
+  ],
+  "places": [],
+  "agenda_only": true,
+  "upcoming": false
+ },
+ {
+  "n": 1,
+  "date": "2024-11-06",
+  "time": "09.00",
+  "room": "ห้องประชุมกรรมาธิการ\nCA 323 ชั้น 3 อาคารรัฐสภา",
+  "docs": [
+   {
+    "k": "notice",
+    "url": "https://pis.parliament.go.th/PARFileDownloadProxy/download?s=etw--MyOqZite09D7t93EmfeKqHbIbZ6rN58Rhe3hKSX0PEotH9OmUUivOBLYdMNUfik4uEdUrLibjHxaaP88LSsuggyjQw-YEixfnMUKuXDpbc-tIW_tF0ev29rCmsKtytReV9sQ2-xg8140kl6M87VrsFz7uR6MHg=&ref=6372736",
+    "size": 406266
+   },
+   {
+    "k": "agenda",
+    "url": "https://pis.parliament.go.th/PARWeb/doc/meeting-agenda/MeetingAgendaDetailForQRCode?meetingId=hojs1DXXfZooXnF7kPM"
+   }
+  ],
+  "media": {},
+  "chair": "",
+  "chair_role": "",
+  "headline": "ประชุมครั้งแรก: กรอบแนวทางการดำเนินงาน",
+  "summary": "ระเบียบวาระ: พิจารณากรอบแนวทางการดำเนินงานของคณะอนุกรรมาธิการ (วุฒิสภาเผยแพร่เฉพาะหนังสือนัดประชุมของคณะนี้ในปี 2567 ข้อความนี้จึงเป็นระเบียบวาระตามหนังสือนัดประชุม ไม่ใช่มติที่ประชุม)",
+  "items": [
+   [
+    "พิจารณากรอบแนวทางการดำเนินงานของคณะอนุกรรมาธิการ",
+    "พิจารณาตามระเบียบวาระ",
+    "sub"
+   ]
+  ],
+  "tags": [
+   "แนวทางการทำงาน"
+  ],
+  "places": [],
+  "agenda_only": true,
+  "upcoming": false
+ }
+]
